@@ -1,0 +1,26 @@
+body {
+    background-image: url(img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+td:first-child{
+    width: 100%;
+}
+
+h1 {
+    margin-top: 220px;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+}
+
+.trenutna-stranica {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
